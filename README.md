@@ -79,6 +79,8 @@ Tringa ochropus (Green Sandpiper)
 In conclusion, our results suggest that birds are arriving earlier and leaving later in recent years. Although the dataset is based on citizen science observations rather than structured surveys, it may be the only way to study shifts in migratory timing in Bangladesh and provide crucial information for conservation planning. In the future, we plan to incorporate data from social media to improve the accuracy of these analyses.
 
 
+[For any info regarding the code and analysis, please contact with Avijit Dutta Borshon borshon0101@gmail.com]
+
 
 
 
