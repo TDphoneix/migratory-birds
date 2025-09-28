@@ -25,7 +25,7 @@ The code for the analysis is given in the file [mg_bird.R](mg_bird.R)
 ## (4) Result
 Across species, we observed a negative trend in the average timing of first seasonal sightings, indicating earlier arrival dates in recent years. Conversely, the timing of last seasonal sightings showed a positive trend, suggesting later departures. These information are summarized in the table below,
 
-| Scientific name          | Common name              | Avg seasonal first sighting shift per year (day) | Avg seasonal last sighting shift per year (day) |
+| Scientific name          | Common name              | Avg seasonal first sighting shift per year (days) | Avg seasonal last sighting shift per year (days) |
 |--------------------------|--------------------------|--------------------------------------------|-------------------------------------------|
 | *Ficedula albicilla*     | Taiga Flycatcher         | -1.643                                     | 5.143                                     |
 | *Motacilla alba*         | White Wagtail            | -9.467                                     | 3.071                                     |
