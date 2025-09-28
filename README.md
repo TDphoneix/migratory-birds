@@ -1,5 +1,5 @@
 # Pilot Study on phenological shift in migration of selected migratory birds
-This is a pilot study done by Avijit Dutta Borshon and Uzzal Das to assess whether there are any shift in migration timing of some selected migratory birds. The code and analysis is written by Avijit Dutta Borshon while, Uzzal Das gave the initial heads on about the topic and helped in selecting the species to study on.
+This is a pilot study done by Avijit Dutta Borshon and Uzzal Das to assess whether there are any shift in migration timing of some selected migratory birds in Bangladesh from the year 2010 to 2024. The code and analysis is written by Avijit Dutta Borshon while, Uzzal Das gave the initial heads on about the topic and helped in selecting the species to study on.
 
 ## (1) Data Used
 We downloaded eBird dataset of all birds in Bangladesh (2010-2024) from GBIF.
